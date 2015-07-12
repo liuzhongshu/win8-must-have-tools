@@ -8,6 +8,7 @@
 
 ## Media
 1. [Vlc: favorite video player] (http://www.videolan.org/vlc/)
+2. [IrfanView: photo viewer] (http://www.irfanview.com/)
 
 ## coding
 1. [Brackets: editor for html/js] (http://brackets.io/)
