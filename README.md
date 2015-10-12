@@ -12,3 +12,4 @@
 
 ## coding
 1. [Brackets: editor for html/js] (http://brackets.io/)
+1. [Notepad++: generic editor](https://notepad-plus-plus.org/)
