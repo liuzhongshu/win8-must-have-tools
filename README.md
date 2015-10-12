@@ -2,6 +2,7 @@
 
 ## Utility
 1. [Classic Shell] (http://www.classicshell.net/) : **bring back classic start menu**
+1. [7Zip](http://www.7-zip.org/) : best archive manager
 1. [Insomnia] (http://dlaa.me/blog/post/10104830) : Prevent the computer from sleeping
 1. [Ditto] (http://ditto-cp.sourceforge.net/) : Clipboard manager
 1. [CCleaner] (https://www.piriform.com/ccleaner) : Best cleaner tool for windows
