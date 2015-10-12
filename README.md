@@ -11,5 +11,7 @@
 2. [IrfanView: photo viewer] (http://www.irfanview.com/)
 
 ## coding
-1. [Brackets: editor for html/js] (http://brackets.io/)
-1. [Notepad++: generic editor](https://notepad-plus-plus.org/)
+1. [Brackets] (http://brackets.io/) : editor for html/js
+1. [Notepad++](https://notepad-plus-plus.org/) : generic editor
+1. [Putty] (http://www.putty.org/) : best ssh client
+1. [git](https://git-scm.com/):must have version control client
