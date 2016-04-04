@@ -16,7 +16,6 @@
 ## Coding
 1. [Brackets](http://brackets.io/) : editor for html/js
 1. [Notepad++](https://notepad-plus-plus.org/) : generic editor
-1. [Putty](http://www.putty.org/) : best ssh client and pscp is also good
 1. [git](https://git-scm.com/) : must have version control client
 1. [ConEmu](https://conemu.github.io/) : Windows console emulator with tabs
 
@@ -24,4 +23,6 @@
 1. [Just Color Picker](http://annystudio.com/software/colorpicker/) : color picker
 
 ## Network
-1. [ipScan](http://angryip.org/) : Fast Ip scan tool
+1. [ipScan](http://angryip.org/) : fast Ip scan tool
+1. [Putty](http://www.putty.org/) : light ssh client, pscp is also good
+1. [MobaXTerm](http://mobaxterm.mobatek.net/) Enhanced terminal for Windows,include x11,cygwin,mosh etc.
