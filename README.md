@@ -7,6 +7,7 @@
 1. [Ditto](http://ditto-cp.sourceforge.net/) : Clipboard manager
 1. [CCleaner](https://www.piriform.com/ccleaner) : Best cleaner tool for windows
 1. [WinDirStat](https://windirstat.info/) : Disk usage statistics viewer 
+1. [Unison](http://unison-binaries.inria.fr/) : File/Directory Synchronizer
 
 ## Media
 1. [Vlc](http://www.videolan.org/vlc/) : favorite video player
