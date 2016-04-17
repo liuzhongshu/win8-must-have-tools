@@ -26,3 +26,4 @@
 1. [ipScan](http://angryip.org/) : fast Ip scan tool
 1. [Putty](http://www.putty.org/) : light ssh client, pscp is also good
 1. [MobaXTerm](http://mobaxterm.mobatek.net/) Enhanced terminal for Windows,include x11,cygwin,mosh etc.
+1. [CPorts](http://www.nirsoft.net/utils/cports.html) tcp connection monitor
