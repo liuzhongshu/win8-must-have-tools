@@ -15,7 +15,7 @@
 
 ## Coding
 1. [Brackets](http://brackets.io/) : editor for html/js
-1. [Notepad++](https://notepad-plus-plus.org/) : generic editor
+1. [Notepad++](https://notepad-plus-plus.org/) : generic editor, great plugins(light explorer,nppFtp)
 1. [git](https://git-scm.com/) : must have version control client
 1. [ConEmu](https://conemu.github.io/) : Windows console emulator with tabs
 
