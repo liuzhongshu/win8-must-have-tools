@@ -15,13 +15,15 @@
 1. [IrfanView](http://www.irfanview.com/) : photo viewer
 
 ## Coding
-1. [Brackets](http://brackets.io/) : editor for html/js
+1. [Sublime Text](https://www.sublimetext.com/) : general IDE 
 1. [Notepad++](https://notepad-plus-plus.org/) : generic editor, great plugins(light explorer,nppFtp)
-1. [git](https://git-scm.com/) : must have version control client
-1. [ConEmu](https://conemu.github.io/) : Windows console emulator with tabs
+1. [Brackets](http://brackets.io/) : editor for html/js
+1. [git](https://git-scm.com/) : must have version control tool
+1. [ConEmu](https://conemu.github.io/) : enhanced Windows console emulator with tabs
 
 ## Design
 1. [Just Color Picker](http://annystudio.com/software/colorpicker/) : color picker
+1. [yed](https://www.yworks.com/products/yed) : free flowchart and diagrams editor
 
 ## Network
 1. [ipScan](http://angryip.org/) : fast Ip scan tool
