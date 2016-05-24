@@ -3,6 +3,7 @@
 ## Utility
 1. [Classic Shell](http://www.classicshell.net/) : bring back classic start menu
 1. [7Zip](http://www.7-zip.org/) : best archive manager
+1. [Everything](https://www.voidtools.com/) best desktop file search
 1. [Insomnia](http://dlaa.me/blog/post/10104830) : Prevent the computer from sleeping
 1. [Ditto](http://ditto-cp.sourceforge.net/) : Clipboard manager
 1. [CCleaner](https://www.piriform.com/ccleaner) : Best cleaner tool for windows
@@ -26,4 +27,3 @@
 1. [ipScan](http://angryip.org/) : fast Ip scan tool
 1. [Putty](http://www.putty.org/) : light ssh client, pscp is also good
 1. [MobaXTerm](http://mobaxterm.mobatek.net/) Enhanced terminal for Windows,include x11,cygwin,mosh etc.
-1. [CPorts](http://www.nirsoft.net/utils/cports.html) tcp connection monitor
