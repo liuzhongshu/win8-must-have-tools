@@ -1,4 +1,4 @@
-> This is a list of must-have tools for Windows 8
+> This is a list of must-have tools for Windows 8, but most of them are also compatible with other Windows version.
 
 ## Utility
 1. [Classic Shell](http://www.classicshell.net/) : bring back classic start menu
@@ -29,3 +29,4 @@
 1. [ipScan](http://angryip.org/) : fast Ip scan tool
 1. [Putty](http://www.putty.org/) : light ssh client, pscp is also good
 1. [MobaXTerm](http://mobaxterm.mobatek.net/) Enhanced terminal for Windows,include x11,cygwin,mosh etc.
+1. [mongoose](https://www.cesanta.com/products/binary) tiny static http server
