@@ -9,6 +9,7 @@
 1. [CCleaner](https://www.piriform.com/ccleaner) : Best cleaner tool for windows
 1. [WinDirStat](https://windirstat.info/) : Disk usage statistics viewer 
 1. [Unison](http://unison-binaries.inria.fr/) : File/Directory Synchronizer
+1. [rufus](https://rufus.akeo.ie/) Fomat bootable usb pen disk
 
 ## Media
 1. [Vlc](http://www.videolan.org/vlc/) : favorite video player
