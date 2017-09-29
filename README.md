@@ -17,6 +17,7 @@
 ## Media
 1. [Vlc](http://www.videolan.org/vlc/) : favorite video player
 1. [IrfanView](http://www.irfanview.com/) : photo viewer
+1. [LICEcap](https://www.cockos.com/licecap/) : simple animated screen captures to gif
 
 ## Coding
 1. [Sublime Text](https://www.sublimetext.com/) : general IDE 
