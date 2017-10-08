@@ -1,5 +1,7 @@
 > This is a list of must-have tools for Windows 8, but most of them are also compatible with other Windows version.
 
+1. [Chocolatey](http://www.chocolatey.org/) : Windows package management tool
+
 ## Utility
 1. [ConEmu](https://conemu.github.io/) : enhanced Windows console emulator with tabs
 1. [Classic Shell](http://www.classicshell.net/) : bring back classic start menu
@@ -10,7 +12,7 @@
 1. [Insomnia](http://dlaa.me/blog/post/10104830) : Prevent the computer from sleeping
 1. [Ditto](http://ditto-cp.sourceforge.net/) : Clipboard manager
 1. [CCleaner](https://www.piriform.com/ccleaner) : Best cleaner tool for windows
-1. [WinDirStat](https://windirstat.info/) : Disk usage statistics viewer 
+1. [TreeSizeFree](https://www.jam-software.com/treesize_free/) : Fast Disk usage statistics viewer 
 1. [Unison](http://unison-binaries.inria.fr/) : File/Directory Synchronizer
 1. [rufus](https://rufus.akeo.ie/) Fomat bootable usb pen disk
 
