@@ -24,9 +24,9 @@
 1. [LICEcap](https://www.cockos.com/licecap/) : simple animated screen captures to gif
 
 ## Coding
-1. [Sublime Text](https://www.sublimetext.com/) : general IDE 
+1. [Sublime Text](https://www.sublimetext.com/) : general editor for small project
 1. [Notepad++](https://notepad-plus-plus.org/) : generic editor, great plugins(light explorer,nppFtp)
-1. [Brackets](http://brackets.io/) : editor for html/js
+1. [Visual Studio Code](https://code.visualstudio.com/) : Next generation IDE
 1. [git](https://git-scm.com/) : must have version control tool
 
 ## Design
