@@ -6,7 +6,8 @@
 1. [ConEmu](https://conemu.github.io/) : enhanced Windows console emulator with tabs
 1. [Classic Shell](http://www.classicshell.net/) : bring back classic start menu
 1. [7Zip](http://www.7-zip.org/) : best archive manager
-1. [Everything](https://www.voidtools.com/) best desktop file search
+1. [Everything](https://www.voidtools.com/) quick desktop file search with background server
+1. [UltraSearch](https://www.jam-software.com/ultrasearch/) quick desktop file search if you don't like background server
 1. [Listary](http://www.listary.com/) File search & App launcher
 1. [AutoHotKey](https://autohotkey.com/) Automation scripting language for Windows 
 1. [Insomnia](http://dlaa.me/blog/post/10104830) : Prevent the computer from sleeping
