@@ -38,3 +38,7 @@
 1. [Putty](http://www.putty.org/) : light ssh client, pscp is also good
 1. [MobaXTerm](http://mobaxterm.mobatek.net/) Enhanced terminal for Windows,include x11,cygwin,mosh etc.
 1. [mongoose](https://www.cesanta.com/products/binary) tiny static http server
+
+## Database
+1. [HeidiSql](https://www.heidisql.com/) : best client for mysql/mariadb
+1. [dbeaver](https://dbeaver.jkiss.org/) : universal sql client 
