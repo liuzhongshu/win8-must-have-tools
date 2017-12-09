@@ -42,3 +42,6 @@
 ## Database
 1. [HeidiSql](https://www.heidisql.com/) : best client for mysql/mariadb
 1. [dbeaver](https://dbeaver.jkiss.org/) : universal sql client 
+
+## Data process
+1. [SciDAVis](http://scidavis.sourceforge.net/) : free alternative for origin
