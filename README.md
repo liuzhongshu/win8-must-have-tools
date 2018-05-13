@@ -8,7 +8,6 @@
 1. [7Zip](http://www.7-zip.org/) : best archive manager
 1. [Everything](https://www.voidtools.com/) quick desktop file search with background server
 1. [UltraSearch](https://www.jam-software.com/ultrasearch/) quick desktop file search if you don't like background server
-1. [Listary](http://www.listary.com/) File search & App launcher
 1. [AutoHotKey](https://autohotkey.com/) Automation scripting language for Windows 
 1. [Insomnia](http://dlaa.me/blog/post/10104830) : Prevent the computer from sleeping
 1. [Ditto](http://ditto-cp.sourceforge.net/) : Clipboard manager
@@ -22,6 +21,8 @@
 1. [Vlc](http://www.videolan.org/vlc/) : favorite video player
 1. [IrfanView](http://www.irfanview.com/) : photo viewer
 1. [LICEcap](https://www.cockos.com/licecap/) : simple animated screen captures to gif
+1. [FFmpeg](https://ffmpeg.org/) : swiss army knife for audo/video convert
+1. [ShareX](https://getsharex.com/) : screecast maker
 
 ## Coding
 1. [Sublime Text](https://www.sublimetext.com/) : general editor for small project
